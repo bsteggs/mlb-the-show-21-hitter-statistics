@@ -24,7 +24,7 @@ Key Features
 
 Data Source
 
-- MLB The Show 21 Live Series Dataset (link or note if simulated)
+- Kaggle: MLB The Show 21 Live Series Hitters Dataset
 
 Setup Instructions
 
